@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { MapPin } from 'lucide-react';
 
@@ -16,7 +17,7 @@ const Location = () => {
           <div className="aspect-w-16 aspect-h-9">
             <iframe 
               className="w-full h-[400px] rounded-lg"
-              src="https://www.google.com.br/maps/embed?pb=!1m14!1m8!1m3!1d15581.354529928708!2d-38.1337401!3d-12.7011125!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7164fe8528e3667%3A0xde3067a9d9e371e4!2sECOVILLA%20BARRA%20DO%20JACUIPE!5e0!3m2!1spt-BR!2sbr!4v1716489432456!5m2!1spt-BR!2sbr" 
+              src="https://www.google.com.br/maps/place/ECOVILLA+BARRA+DO+JACUIPE/@-12.7011125,-38.1337401,16z/data=!4m14!1m7!3m6!1s0x7164fe8528e3667:0xde3067a9d9e371e4!2sECOVILLA+BARRA+DO+JACUIPE!8m2!3d-12.7014243!4d-38.1317899!16s%2Fg%2F11b6hndf9l!3m5!1s0x7164fe8528e3667:0xde3067a9d9e371e4!8m2!3d-12.7014243!4d-38.1317899!16s%2Fg%2F11b6hndf9l?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D" 
               allowFullScreen
               title="Localização Clínica SÓ-RIA"
               loading="lazy"

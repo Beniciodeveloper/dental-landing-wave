@@ -30,7 +30,7 @@ const Hero = () => {
           <div className="md:w-1/2 relative">
             <div className="rounded-full bg-dental-pink p-4 shadow-lg animate-float">
               <img 
-                src="../../public/img-1-clinica.png"
+                src="../../public/"
                 alt="Sorriso saudável" 
                 className="rounded-full"
                 width={500} 

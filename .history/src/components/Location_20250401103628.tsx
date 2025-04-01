@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { MapPin } from 'lucide-react';
 
@@ -16,7 +17,7 @@ const Location = () => {
           <div className="aspect-w-16 aspect-h-9">
             <iframe 
               className="w-full h-[400px] rounded-lg"
-              src="https://www.google.com.br/maps/embed?pb=!1m14!1m8!1m3!1d15581.354529928708!2d-38.1337401!3d-12.7011125!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7164fe8528e3667%3A0xde3067a9d9e371e4!2sECOVILLA%20BARRA%20DO%20JACUIPE!5e0!3m2!1spt-BR!2sbr!4v1716489432456!5m2!1spt-BR!2sbr" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15586.300258427284!2d-38.202157115658814!3d-12.676808607467396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7168c3f1a872795%3A0x8e9f98c389ecd860!2sBarra%20do%20Jacu%C3%ADpe%2C%20Cama%C3%A7ari%20-%20BA!5e0!3m2!1spt-BR!2sbr!4v1716489432456!5m2!1spt-BR!2sbr" 
               allowFullScreen
               title="Localização Clínica SÓ-RIA"
               loading="lazy"
